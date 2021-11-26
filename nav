@@ -1,0 +1,63 @@
+<div class="container" style="display: flex; justify-content: space-around;">
+  <div class="col-xs-12 col-md-6">
+
+  <div class="card" style="width: 18rem;">
+    <img src="contactformscrsht.png" class="card-img-top" alt="ops, I'm camera shy">
+    <div class="card-body">
+      <h5 class="card-title">CONTACT FORM</h5>
+      <p class="card-text">Mobile responsivenes</p>
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">HTML</li>
+      <li class="list-group-item">CSS</li>
+      <li class="list-group-item">ICONS</li>
+    </ul>
+    <div class="card-body">
+      <a href="https://github.com/SekoM1/contact-form" target="_blank" class="card-link">GitHUb</a>
+      <a href="https://boring-lalande-186a09.netlify.app/" target="_blank" class="card-link">Netlify</a>
+    </div>
+  </div>
+</div>
+
+<div class="col-xs-12 col-md-6">
+  <div class="card" style="width: 18rem;">
+    <img src="webcloning.png" class="card-img-top" alt="ops, I'm camera shy">
+    <div class="card-body">
+      <h5 class="card-title">WEBSITE CLONING</h5>
+      <p class="card-text">Use of bootstrap</p>
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">HTML</li>
+      <li class="list-group-item">CSS</li>
+      <li class="list-group-item">BOOTSTRAP</li>
+    </ul>
+    <div class="card-body">
+      <a href="https://github.com/SekoM1/cloning" target="_blank" class="card-link">GitHUb</a>
+      <a href="https://competent-pike-d9ba13.netlify.app/" target="_blank" class="card-link">Netlify</a>
+    </div>
+  </div>
+  </div>
+
+
+  <div class="col-xs-12 col-md-6">
+  <div class="card" style="width: 18rem;">
+    <img src="cards.png" class="card-img-top" alt="oops, I'm camera shy">
+    <div class="card-body">
+      <h5 class="card-title">CARDS</h5>
+      <p class="card-text">.</p>
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">HTML</li>
+      <li class="list-group-item">CSS</li>
+      <li class="list-group-item">ANIMATION</li>
+    </ul>
+    <div class="card-body">
+      <a href="https://github.com/SekoM1/CARDS" target="_blank" class="card-link">GitHUb</a>
+      <a href="https://festive-meninsky-39857c.netlify.app/" target="_blank" class="card-link">Netlify</a>
+    </div>
+  </div>
+</div>
+
+
+</div>
+</section>

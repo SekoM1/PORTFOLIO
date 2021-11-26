@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      function add() {
+        let firstNumber = document.getElementById="num1";
+        let secondNumber = document.getElementById="num2";
+        let results = parseInt(firstNumber) + parseInt(secondNumber);
+        document.write(results);
+      }
+    </script>
+  </head>
+  <body>
+    <input type="number" id="num1" name="num1" /><br /><br />
+
+    <input type="number" id="num2" name="num2" /><br /><br />
+
+    <button type="button" onclick="add()">Add</button>
+  </body>
+</html>
